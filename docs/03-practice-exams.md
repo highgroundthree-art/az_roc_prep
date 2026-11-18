@@ -21,6 +21,17 @@
 
 > Caution: some free sites still list outdated info (for example the old "Business Management" exam, since replaced by the SRE, or claims that NASCLA isn't accepted). Trust PSI and AZ ROC first.
 
+## Local in-person schools (Phoenix)
+
+| School | Contact | Notes |
+|---|---|---|
+| Arizona Contractor License Center (AZCLC) | 1010 E Jefferson St, Phoenix 85034 · 602-712-1515 · azclc.com | Serving AZ contractors since 1972. Test prep, book store, application and bond help. 4.9 stars (394 reviews). Class schedule not visible online; call. |
+| Contractors Exam Center (Contractors Exam, Inc.) | Phoenix office 602-252-8311 · contractorsexam.com | In-person and online courses, practice tests. Schedule not posted. |
+| Arizona School of Real Estate & Business (ASREB) | asreb.com | 16-hour trade prep course |
+| Contractor School Online ("Arizona Contractor School Online®") | (888) 993-9267 · contractorschoolonline.com | Online only. Web-based trade practice tests, $97 |
+
+Questions to ask when calling: Is there a KB-2 (combined B-1/B-2/KB-1/KB-2) class before Friday 11/20? Do you sell or rent bound, pre-tabbed IBC, IRC and OSHA 1926 for same-day pickup? Is there practice-test access I can start tonight?
+
 ## Library — findings (researched 2026-11-17)
 
 **Bottom line: no Arizona library database found with an AZ ROC or KB-2 practice test.** Library test-prep databases (LearningExpress, Peterson's) cover GED, SAT, ASVAB, CDL, nursing and similar exams, but not state contractor trade exams. Where libraries do help is with physical copies of the study-only books.
