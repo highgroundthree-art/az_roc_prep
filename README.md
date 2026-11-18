@@ -2,6 +2,14 @@
 
 Study system for the Arizona Registrar of Contractors (AZ ROC) license exams for the **KB-2 Dual Residential and Small Commercial** classification.
 
+## Live site
+
+**https://highgroundthree-art.github.io/az_roc_prep/** — study guide for all ten domains, search, domain quizzes, a timed 100-question practice exam weighted like the real test, a review list of missed questions, and the 3-day plan. Progress is saved in the browser (nothing is sent anywhere).
+
+To publish: GitHub → Settings → Pages → Deploy from a branch → `main` / `(root)`.
+
+After editing any domain file or doc, rebuild the site data: `pip install markdown && python3 tools/build_site.py`, then commit `assets/data.js`.
+
 ## Start here
 
 1. **Check for an exam waiver first.** A former qualifying party in the same classification within 5 years gets the exam waived (A.R.S. § 32-1122(F)). See [docs/00-official-sources.md](docs/00-official-sources.md#exam-waiver-check-this-first).
@@ -45,7 +53,9 @@ docs/
 domains/                     One folder per domain: concepts, code locations, questions
 practice/                    Full practice exams, answer keys, missed-question log
 sre/                         Statutes and Rules Exam notes
-tools/build_exam.py          Builds weighted, shuffled 100-question exams
+tools/build_exam.py          Builds weighted, shuffled 100-question exams (markdown)
+tools/build_site.py          Converts domains + docs into assets/data.js for the website
+index.html, assets/          The website (no framework, no build step beyond data.js)
 ```
 
 ## Status
