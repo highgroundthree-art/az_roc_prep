@@ -9,7 +9,7 @@ You need **bound** copies of the 2018 IBC, the 2018 IRC and 29 CFR 1926 in the r
 - Tab OSHA 1926 by subpart: C, E, K, L (scaffolds), M (fall protection), P (excavations), Q (concrete/masonry), R (steel erection), X (ladders)
 - Tab the IBC: Ch. 3 (occupancy), 5 (heights/areas), 6 (construction types), 10 (egress), 14–15, 16 (structural), 17 (special inspections), 18–19, 21–23, 25
 - Tab the IRC: R301 (design criteria), R302, R308, R310, R311, R403, R502, R602, R802, R905
-- Drill: 40 OpenExamPrep questions. Time every lookup; the target is under 90 seconds.
+- Drill: all questions in [Safety](../domains/09-safety/README.md) and [General Building Code](../domains/10-general-building-code/README.md), then 40 OpenExamPrep questions. Time every lookup; the target is under 90 seconds.
 
 ### Thursday 11/19: Knowledge domains (Concrete, Metals, Carpentry, Masonry, Sitework, 58 items)
 - Concrete: water-cement ratio, slump, curing, air entrainment, cold and hot weather placement, rebar cover, cylinder testing
@@ -17,7 +17,8 @@ You need **bound** copies of the 2018 IBC, the 2018 IRC and 29 CFR 1926 in the r
 - Masonry: mortar types (M S N O K), CMU sizes, grout, reinforcement, cold and hot weather work
 - Sitework: soil types (A, B, C), sloping and benching, trench boxes, pipe bedding
 - Carpentry: framing spans, headers, sheathing, fasteners
-- Drill: a full 100-question timed practice set (240 min). Log every miss in `practice/missed-log.md`.
+- Study: [Concrete](../domains/02-concrete/README.md), [Metals](../domains/04-metals/README.md), [Carpentry](../domains/05-carpentry/README.md), [Masonry](../domains/03-masonry/README.md), [Sitework](../domains/01-sitework/README.md), then skim [Thermal](../domains/06-thermal-moisture/README.md), [Doors & Windows](../domains/07-doors-windows/README.md), [Finishes](../domains/08-finishes/README.md)
+- Drill: [Practice Exam 01](../practice/full-exam-01.md), timed (240 min). Log every miss in `practice/missed-log.md`. Retake misses with [Practice Exam 02](../practice/full-exam-02.md) if time allows.
 
 ### Friday 11/20: Test day
 - Morning: review only the missed-question log
