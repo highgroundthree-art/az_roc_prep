@@ -26,6 +26,15 @@ Arizona doesn't publish an IDE-style standards document for contractors. The equ
 - Scores are valid for 2 years. The application and score report must reach AZ ROC within that window.
 - Reference books may be highlighted, underlined and tabbed with **permanent** tabs only. No writing during the exam.
 
+## Exam waiver: check this first
+
+A.R.S. § 32-1122(F): the registrar **shall waive** the examination requirement if ROC records show the qualifying party "is currently or has previously been a qualifying party for a licensee in this state in the same classification within the preceding five years." Subsection E.1 also waives work-experience documentation on the same basis.
+
+- Statute: https://www.azleg.gov/ars/32/01122.htm
+- Rule: A.A.C. R4-9-106(E)
+- Form: AZ ROC In-State Waiver Request form (roc.az.gov)
+- Confirm with ROC Licensing at (602) 542-1525 before paying for or sitting an exam.
+
 ## To do
 
 - [ ] Download the official B-1/B-2/KB-1/KB-2 content outline PDF from the PSI portal and save it to `docs/official/`
