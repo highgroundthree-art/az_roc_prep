@@ -1,4 +1,31 @@
-# Study Plan (Draft)
+# Study Plan
+
+## 3-Day Plan for Test Friday 2026-11-20
+
+### First, the must-have
+You need **bound** copies of the 2018 IBC, the 2018 IRC and 29 CFR 1926 in the room, with permanent tabs only. If you don't have them yet, get them today. Bound OSHA 1926 is the easiest to find locally. The ICC books may need same-day pickup or a prep-company tabbed bundle. Without the books, the Safety and Code points (21 items) get hard.
+
+### Wednesday 11/18: Lookup speed (Safety + Code, 21 items)
+- Tab OSHA 1926 by subpart: C, E, K, L (scaffolds), M (fall protection), P (excavations), Q (concrete/masonry), R (steel erection), X (ladders)
+- Tab the IBC: Ch. 3 (occupancy), 5 (heights/areas), 6 (construction types), 10 (egress), 14–15, 16 (structural), 17 (special inspections), 18–19, 21–23, 25
+- Tab the IRC: R301 (design criteria), R302, R308, R310, R311, R403, R502, R602, R802, R905
+- Drill: 40 OpenExamPrep questions. Time every lookup; the target is under 90 seconds.
+
+### Thursday 11/19: Knowledge domains (Concrete, Metals, Carpentry, Masonry, Sitework, 58 items)
+- Concrete: water-cement ratio, slump, curing, air entrainment, cold and hot weather placement, rebar cover, cylinder testing
+- Metals: steel joist handling and erection, bridging, Subpart R connector and decking rules
+- Masonry: mortar types (M S N O K), CMU sizes, grout, reinforcement, cold and hot weather work
+- Sitework: soil types (A, B, C), sloping and benching, trench boxes, pipe bedding
+- Carpentry: framing spans, headers, sheathing, fasteners
+- Drill: a full 100-question timed practice set (240 min). Log every miss in `practice/missed-log.md`.
+
+### Friday 11/20: Test day
+- Morning: review only the missed-question log
+- Pace: about 2.4 minutes per question. Answer the knowledge questions first and skip the long lookups, then come back for them.
+
+---
+
+## Long-Term Plan (8 weeks, for retake or deeper guide build-out)
 
 Weighting follows the content outline, so more weeks go to the heavier domains and to the study-only books, where open-book lookup won't save you.
 

@@ -30,8 +30,9 @@ practice/                    Question banks, missed-question log, timed-test res
 - [x] Map the blueprint
 - [x] Free and paid practice sources identified
 - [ ] Download the official PSI content outline PDF and confirm item counts
-- [ ] Library database check (Mesa Public Library, Maricopa County Library District)
-- [ ] College and university course check (Maricopa Community Colleges, ASU)
+- [x] Library database check: no ROC-specific tests; ASU and WorldCat for study-only books
+- [x] College and university check: no ROC prep course; MCC and ASU courses map to the domains
+- [x] 3-day plan for test Friday 11/20
 - [ ] Build domain notes and question banks
 - [ ] Decide: AZ trade exam vs NASCLA
 
